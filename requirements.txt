@@ -1,0 +1,13 @@
+# 核心依赖项
+python-dotenv==1.0.0
+numpy==2.3.0
+pandas==2.3.0
+requests>=2.31.0
+
+# 其他必要依赖
+aiodns==3.5.0
+aiofiles==24.1.0
+aiohappyeyeballs==2.6.1
+aihttp==3.12.13
+aiosignal==1.3.2
+APScheduler==3.10.4
